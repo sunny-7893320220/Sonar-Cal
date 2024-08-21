@@ -15,7 +15,7 @@
 <br />
  <div>
 <label>
-<input type="radio" name="r1" value="add" />ADDit
+<input type="radio" name="r1" value="add" />rabbani
 <br />
 </label>
 <label>
