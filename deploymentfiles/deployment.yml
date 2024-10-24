@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: devopshubg333/batch13:5
+        image: sunny7893320220/sonar-cal:zyx
         ports:
         - containerPort: 8080
