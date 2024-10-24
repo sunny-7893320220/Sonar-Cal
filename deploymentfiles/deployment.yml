@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: sunny7893320220/sonar-cal:3
+        image: sunny7893320220/sonar-cal:4
         ports:
         - containerPort: 8080
